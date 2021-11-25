@@ -11,7 +11,7 @@ Our main contributions are as follows.<br>
 To tackle the problem of lacking public parasitology datasets in deep learning, we publish a large-scale microscopic multi-parasite dataset, which can be downlaod [here](https://data.mendeley.com/datasets/4tnhbsh58c/draft?a=58f32edd-d920-49a2-b690-7eb8508400d9).<br>
 
 
-Some Examples of our protozoan parasites:
+Some Examples of our parasite dataset:
 
 ![](https://github.com/hello-code2021/IDLMPIA/blob/master/picture/dataset.png)
 
