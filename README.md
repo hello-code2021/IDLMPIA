@@ -16,4 +16,4 @@ We further interpret deep learning-based parasite image classification using Cla
 
 ![](IDLMPIA/picture/CAM_Grad-CAM.png)
 
-### For other information, please contact the author, ee.jianghao@outlook.com or zhangchi.ch@gmail.com.
+##### For other information, please contact the author, ee.jianghao@outlook.com or zhangchi.ch@gmail.com.
