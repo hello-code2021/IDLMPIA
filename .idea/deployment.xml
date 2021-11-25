@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yetaoyu@vipgz1.91tunnel.com:10004" remoteFilesAllowedToDisappearOnAutoupload="false" showDialogOnRemoteDnD="false">
+    <serverData>
+      <paths name="cdvd_tsp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fea">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yetaoyu/zc/Classification" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yetaoyu@vipgz1.91tunnel.com:10004">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yetaoyu/zc/Classification" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
