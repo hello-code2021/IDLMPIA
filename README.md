@@ -10,12 +10,13 @@ Firstly, to tackle the problem of lacking public parasitology datasets, we publi
 
 Our multi-parasite dataset can be downlaod [here](https://data.mendeley.com/datasets/4tnhbsh58c/draft?a=58f32edd-d920-49a2-b690-7eb8508400d9).<br>
 
-Examples of our protozoan parasites:![](https://github.com/hello-code2021/IDLMPIA/picture/dataset.png)
+Examples of our protozoan parasites:
+![](https://github.com/hello-code2021/IDLMPIA/blob/master/picture/dataset.png)
 
 
 We further interpret deep learning-based parasite image classification using Class Action Mapping and Gradient-weighted Class Activation Mapping visualization tools.<br>
 
-![](https://github.com/hello-code2021/IDLMPIA/picture/CAM_Grad-CAM.png)
+![](https://github.com/hello-code2021/IDLMPIA/blob/master/picture/CAM_Grad-CAM.png)
 
 Code for Classification, CAM, Grad-CAM and Confusion Matrix can be download above.
 
